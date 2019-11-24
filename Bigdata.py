@@ -136,7 +136,7 @@ print(thistuple.index("mango"))
 # print(y-x)
 # print(y/x)
 # print(int("20")*x)
-#
+# this is for git
 # print(34%10)
 # print(3**2)
 #Conditional turorial: if/else, trure/false
